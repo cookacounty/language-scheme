@@ -3,7 +3,7 @@
   "version": "1.4.0",
   "private": false,
   "description": "A scheme syntax highlighter",
-  "repository": "https://github.com/backjo/language-scheme",
+  "repository": "https://github.com/cookacounty/language-scheme",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
