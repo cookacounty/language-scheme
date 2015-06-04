@@ -4,6 +4,8 @@
   'sch'
   'ss'
   'rkt'
+  'il'
+  'ils'
 ]
 'name': 'Scheme'
 'patterns': [
